@@ -6,6 +6,8 @@ body { font-family: sans-serif; }
 
 .carousel {
   background: #EEE;
+  width: 66%;
+  height: 200px;
 }
 
 .carousel-cell {
