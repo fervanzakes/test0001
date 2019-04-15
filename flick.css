@@ -15,7 +15,6 @@ body { font-family: sans-serif; }
   background: #8C8;
   border-radius: 5px;
   counter-increment: carousel-cell;
-  position: absolute;
 }
 
 /* cell number */
